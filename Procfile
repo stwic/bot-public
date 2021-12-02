@@ -1,0 +1,1 @@
+worker: python your_heroku/bot.py 
